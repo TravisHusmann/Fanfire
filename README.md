@@ -1,4 +1,4 @@
-# Farlands
+# Fanfire
 
 Top-down pixel-art action RPG built in **Unity 6**.
 
@@ -9,10 +9,10 @@ cities are safe; the roads between them are not. Single-player for now.
 
 ## Download
 
-**[Download the latest Windows build](https://github.com/TravisHusmann/Farlands/releases/latest)** — unzip anywhere and run `Farlands.exe`. To update, download the new zip and replace the old folder.
+**[Download the latest Windows build](https://github.com/TravisHusmann/Fanfire/releases/latest)** — unzip anywhere and run `Fanfire.exe`. To update, download the new zip and replace the old folder.
 
 Characters and settings are kept in
-`%USERPROFILE%\AppData\LocalLow\Farlands\Farlands\`. Updating never touches
+`%USERPROFILE%\AppData\LocalLow\Fanfire\Fanfire\`. Updating never touches
 them; deleting that folder resets everything.
 
 ## Controls
