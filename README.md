@@ -24,6 +24,7 @@ rebound, and each layout keeps its own.
 | --- | --- | --- | --- |
 | Move | `W A S D` | Right click (hold to follow the cursor) | Left stick |
 | Aim | Mouse | Mouse | Skills aim at your target |
+| Zoom camera | Mouse wheel | Mouse wheel | Camera Zoom on the Video page |
 | Basic attack | Hold left mouse | Hold left mouse | Right trigger |
 | Dodge | `Space` | `Space` | LB |
 | Skills | `Q` `E` `R` `F` `Z` `X` `C` `V` | `Q` `W` `E` `R` `A` `S` `D` `F` | A, B, X, Y; hold LT for 5–8 |
